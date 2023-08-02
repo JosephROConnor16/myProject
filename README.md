@@ -1,2 +1,2 @@
 # myProject
-Project Space for practicing
+This is a brand new project that I will be practicing in
